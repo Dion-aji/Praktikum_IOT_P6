@@ -4,9 +4,9 @@ Wirelles Ip Address : 192.168.0.10
 
 SSID : Home
 -------------------------------------
--kipas
+- kipas
 pass : kipas
--lampu
+- lampu
 pass : lampu
 - sensor
 pass : sensor
