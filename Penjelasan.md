@@ -4,14 +4,14 @@ Wirelles Ip Address : 192.168.0.10
 
 SSID : Home
 -------------------------------------
-- kipas
-pass : kipas
-- lampu
-pass : lampu
-- sensor
-pass : sensor
-- alarm 
-pass : alarm
+- kipas,
+password : kipas
+- lampu,
+password : lampu
+- sensor,
+password : sensor
+- alarm, 
+password : alarm
 ----------------------------------------------
 Username : dion
 password : dion
